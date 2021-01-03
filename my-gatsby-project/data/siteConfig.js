@@ -1,0 +1,98 @@
+module.exports = {
+  siteTitle: 'Hi! I\'m Christian!',
+  siteDescription: `Christian\'s Portfolio`,
+  keyWords: ['gatsbyjs', 'react', 'curriculum'],
+  authorName: 'Christian Gubesch',
+  twitterUsername: 'greenteaSipper',
+  githubUsername: 'gubesch',
+  authorAvatar: '/images/avatar.jpeg',
+  authorDescription: `Hello together, I'm a network and security engineer from Graz, Austria.
+  Back in 2014 I made one of the best decicions of my life which was attending the <strong>Higher Technical Collage for Information Technology Villach</strong>.
+  In my 5 year journy on the school my passion for the IT world began to grow.
+  In 2020 i decided that I also wanted to start a bachelor study in the field of <strong>Business Informatics at the FH Campus02</strong> in Graz.
+  Besides my passion for information technology I am really intrested in business and economics.
+  In my freetime I like to do all kinds of sport, reading, spending time with my friends or grabbing a drink with them. <br/>
+  Currently my motto is <strong>"Strive to be the best version of yourself!"</strong>`,
+  skills: [
+    {
+      name: 'Network Engineering',
+      level: 90
+    },
+    {
+      name: 'Cyber Security',
+      level: 80
+    },
+    {
+      name: 'Software Development',
+      level: 50
+    },
+    {
+      name: 'System Administration',
+      level: 65
+    },
+    {
+      name: 'Financial Analysis',
+      level: 5
+    },
+    /* more skills here */
+  ],
+  jobs: [
+    /* more jobs here */
+    {
+      company: "BearingPoint",
+      begin: {
+        month: 'jan',
+        year: '2020'
+      },
+      duration: null,
+      occupation: "Network and Security Engineer",
+      description: "I am part of the network and security team which is responsible for internal and external network and security operations."
+  
+    },
+    {
+      company: "Austrian Armed Forces",
+      begin: {
+        month: 'jul',
+        year: '2019'
+      },
+      duration: '6 months',
+      occupation: "Soldier",
+      description: "I was part of the pioniere batallion, where I was in the telecommunications troop."
+  
+    },
+  ],
+  portifolio: [
+    {
+      image: "/images/gatsby-starter-cv.png",
+      description: "Gatsby starter CV template",
+      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+    },
+    /* more portifolio items here */
+  ],
+  social: {
+    twitter: "https://twitter.com/greenteaSipper",
+    linkedin: "https://www.linkedin.com/in/christian-gubesch",
+    github: "https://github.com/gubesch",
+    email: "christian.gubesch@gmail.com"
+  },
+  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
+  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  siteCover: '/images/cover.jpeg',
+  googleAnalyticsId: 'UA-000000000-1',
+  background_color: '#ffffff',
+  theme_color: '#25303B',
+  fontColor: "#000000cc",
+  enableDarkmode: true, // If true, enables dark mode switch
+  display: 'minimal-ui',
+  icon: 'src/assets/gatsby-icon.png',
+  headerLinks: [
+    {
+      label: 'Home',
+      url: '/',
+    },
+    /*{
+      label: 'Portifolio',
+      url: '/portifolio',
+    }*/
+  ]
+}
