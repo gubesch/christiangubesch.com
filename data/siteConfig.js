@@ -61,13 +61,13 @@ module.exports = {
   
     },
   ],
-  portifolio: [
+  books: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+      image: "/images/CodeBook.jpg",
+      description: "A great book to dive into cryptography. It also includes self tests and quizes to enhance your learnings.",
+      url: "https://www.amazon.de/Code-Book-Secrets-Behind-Codebreaking/dp/0385730624/ref=pd_bxgy_img_3/257-8755335-3371956?_encoding=UTF8&pd_rd_i=0385730624&pd_rd_r=71f57092-99a5-4225-a710-542244be93c2&pd_rd_w=M8za3&pd_rd_wg=3y5q3&pf_rd_p=4490d326-3239-499b-8c8a-0dd8d6ad582a&pf_rd_r=E25FN24827PJJSH60SRE&psc=1&refRID=E25FN24827PJJSH60SRE"
     },
-    /* more portifolio items here */
+    /* more books items here */
   ],
   social: {
     twitter: "https://twitter.com/greenteaSipper",
@@ -90,9 +90,9 @@ module.exports = {
       label: 'Home',
       url: '/',
     },
-    /*{
-      label: 'Portifolio',
-      url: '/portifolio',
-    }*/
+    {
+      label: 'Books',
+      url: '/books',
+    },
   ]
 }
