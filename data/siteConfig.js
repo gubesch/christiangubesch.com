@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Hi! I\'m Christian!',
   siteDescription: `Christian\'s Portfolio`,
-  keyWords: ['gatsbyjs', 'react', 'curriculum'],
+  keyWords: ['Gubesch', 'Christian', 'IT', 'Expert', 'Consultant', 'Security Expert','Software Development', 'Campus02', 'BearingPoint'],
   authorName: 'Christian Gubesch',
   twitterUsername: 'greenteaSipper',
   githubUsername: 'gubesch',
