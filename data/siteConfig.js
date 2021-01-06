@@ -78,7 +78,7 @@ module.exports = {
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-000000000-1',
+  googleAnalyticsId: 'G-HFM3H8RPTB',
   background_color: '#ffffff',
   theme_color: '#25303B',
   fontColor: "#000000cc",
