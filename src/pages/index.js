@@ -100,8 +100,8 @@ export default styled(Home)`
 
   .avatar__image {
     box-shadow: 3px 3px 15px 0px rgba(0,0,0,0.75);
-    max-width: 300px;
-    border-radius: 150px;
+    max-width: 250px;
+    border-radius: 125px;
     margin: 0 auto 24px;
   }
 
