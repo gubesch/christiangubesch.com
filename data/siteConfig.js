@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Financial Analysis',
-      level: 5
+      level: 10
     },
     /* more skills here */
   ],
