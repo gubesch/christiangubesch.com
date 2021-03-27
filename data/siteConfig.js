@@ -8,7 +8,7 @@ module.exports = {
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Hello together, I'm a network and security engineer from Graz, Austria.
   Back in 2014 I made one of the best decicions of my life which was attending the <strong>Higher Technical Collage for Information Technology Villach</strong>.
-  In my 5 year journy on the school my passion for the IT world began to grow.
+  In my 5 year journey on the school my passion for the IT world began to grow.
   In 2020 i decided that I also wanted to start a bachelor study in the field of <strong>Business Informatics at the FH Campus02</strong> in Graz.
   Besides my passion for information technology I am really intrested in business and economics.
   In my freetime I like to do all kinds of sport, reading, spending time with my friends or grabbing a drink with them. <br/>
