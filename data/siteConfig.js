@@ -34,6 +34,10 @@ module.exports = {
       name: 'Financial Analysis',
       level: 10
     },
+    {
+      name: 'Project Management',
+      level: 60
+    },
     /* more skills here */
   ],
   jobs: [
