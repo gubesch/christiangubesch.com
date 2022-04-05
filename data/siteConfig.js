@@ -50,7 +50,7 @@ module.exports = {
       },
       duration: null,
       occupation: "Network and Security Engineer",
-      description: "I am part of the network and security team which is responsible for internal and external network and security operations."
+      description: "I am part of the network and security team which is responsible for internal and external network and security operations. My Focus area is Cloud Security!"
   
     },
     {
