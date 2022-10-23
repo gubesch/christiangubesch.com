@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Financial Analysis',
-      level: 10
+      level: 15
     },
     {
       name: 'Project Management',
