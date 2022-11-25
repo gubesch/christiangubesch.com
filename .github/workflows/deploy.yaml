@@ -8,7 +8,7 @@ env:
   SPECTRAL_DSN: ${{ secrets.SPECTRAL_DSN }}
 jobs:
   spectral:
-    name: Spectral
+    name: spectral
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -17,6 +17,7 @@ jobs:
       - name: Scan
         run: $HOME/.spectral/spectral scan
   build:
+    needs: spectral
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
